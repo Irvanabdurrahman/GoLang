@@ -6,4 +6,4 @@ When we first released Go to the public in November 2009, we didn’t know if th
 
 Go has turned out to have a much broader reach than we had ever expected. Its growth in the industry has been phenomenal, and it has powered many projects at Google.
 
---> https://go.dev/learn/
+> https://go.dev/learn/
